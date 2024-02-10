@@ -1,0 +1,25 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "node-homework-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zorianach/goit-node-cli.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Zoriana Chernyshova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zorianach/goit-node-cli/issues"
+  },
+  "homepage": "https://github.com/zorianach/goit-node-cli#readme",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
